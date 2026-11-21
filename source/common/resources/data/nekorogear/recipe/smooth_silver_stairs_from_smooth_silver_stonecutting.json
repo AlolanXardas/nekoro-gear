@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:smooth_silver"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:smooth_silver_stairs"
+  }
+}

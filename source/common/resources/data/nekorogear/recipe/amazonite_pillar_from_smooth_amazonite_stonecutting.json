@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:smooth_amazonite"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:amazonite_pillar"
+  }
+}

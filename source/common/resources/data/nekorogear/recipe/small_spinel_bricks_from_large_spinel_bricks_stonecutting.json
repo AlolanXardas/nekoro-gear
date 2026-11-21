@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:large_spinel_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:small_spinel_bricks"
+  }
+}

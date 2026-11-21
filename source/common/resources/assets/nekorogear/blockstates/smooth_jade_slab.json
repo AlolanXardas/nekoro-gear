@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_jade_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_jade"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_jade_slab_top"
+    }
+  }
+}

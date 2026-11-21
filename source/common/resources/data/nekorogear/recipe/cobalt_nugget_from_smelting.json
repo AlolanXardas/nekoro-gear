@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "nekorogear:cobalt_sword"
+    },
+    {
+      "item": "nekorogear:cobalt_shovel"
+    },
+    {
+      "item": "nekorogear:cobalt_pickaxe"
+    },
+    {
+      "item": "nekorogear:cobalt_axe"
+    },
+    {
+      "item": "nekorogear:cobalt_hoe"
+    },
+    {
+      "item": "nekorogear:cobalt_helmet"
+    },
+    {
+      "item": "nekorogear:cobalt_chestplate"
+    },
+    {
+      "item": "nekorogear:cobalt_leggings"
+    },
+    {
+      "item": "nekorogear:cobalt_boots"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:cobalt_nugget"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:large_rhodochrosite_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:small_rhodochrosite_brick_stairs"
+  }
+}

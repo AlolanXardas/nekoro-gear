@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:smooth_copper"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:copper_pillar"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_ruby_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_ruby"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_ruby_slab_top"
+    }
+  }
+}

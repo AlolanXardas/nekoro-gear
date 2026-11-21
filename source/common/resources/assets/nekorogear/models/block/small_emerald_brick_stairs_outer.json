@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "nekorogear:block/small_emerald_bricks",
+    "side": "nekorogear:block/small_emerald_bricks",
+    "top": "nekorogear:block/small_emerald_bricks"
+  }
+}

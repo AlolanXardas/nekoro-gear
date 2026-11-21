@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredient": [
+    {
+      "item": "nekorogear:onyx_ore"
+    },
+    {
+      "item": "nekorogear:deepslate_onyx_ore"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:onyx"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_kunzite_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_kunzite"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_kunzite_slab_top"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_citrine_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_citrine"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_citrine_slab_top"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:large_cobalt_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:large_cobalt_brick_stairs"
+  }
+}

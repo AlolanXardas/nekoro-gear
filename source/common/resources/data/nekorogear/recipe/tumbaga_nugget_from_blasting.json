@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "nekorogear:tumbaga_sword"
+    },
+    {
+      "item": "nekorogear:tumbaga_shovel"
+    },
+    {
+      "item": "nekorogear:tumbaga_pickaxe"
+    },
+    {
+      "item": "nekorogear:tumbaga_axe"
+    },
+    {
+      "item": "nekorogear:tumbaga_hoe"
+    },
+    {
+      "item": "nekorogear:tumbaga_helmet"
+    },
+    {
+      "item": "nekorogear:tumbaga_chestplate"
+    },
+    {
+      "item": "nekorogear:tumbaga_leggings"
+    },
+    {
+      "item": "nekorogear:tumbaga_boots"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:tumbaga_nugget"
+  }
+}

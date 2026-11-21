@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "nekorogear:block/jade_pillar_top",
+    "side": "nekorogear:block/jade_pillar"
+  }
+}

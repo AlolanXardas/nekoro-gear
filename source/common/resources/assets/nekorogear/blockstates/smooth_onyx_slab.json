@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_onyx_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_onyx"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_onyx_slab_top"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nekorogear:silver_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "nekorogear:silver_nugget"
+  }
+}

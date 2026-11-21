@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_jasper_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_jasper"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_jasper_slab_top"
+    }
+  }
+}

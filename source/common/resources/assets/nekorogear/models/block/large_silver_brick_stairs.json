@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "nekorogear:block/large_silver_bricks",
+    "side": "nekorogear:block/large_silver_bricks",
+    "top": "nekorogear:block/large_silver_bricks"
+  }
+}

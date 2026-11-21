@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_bronze_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_bronze"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_bronze_slab_top"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nekorogear:celestine"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "nekorogear:celestine_shard"
+  }
+}

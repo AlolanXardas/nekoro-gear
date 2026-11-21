@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:smooth_netherite"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:netherite_pillar"
+  }
+}

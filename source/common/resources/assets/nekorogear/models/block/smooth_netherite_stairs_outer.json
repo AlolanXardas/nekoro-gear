@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "nekorogear:block/smooth_netherite",
+    "side": "nekorogear:block/smooth_netherite",
+    "top": "nekorogear:block/smooth_netherite"
+  }
+}

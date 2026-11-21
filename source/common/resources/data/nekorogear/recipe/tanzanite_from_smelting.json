@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredient": [
+    {
+      "item": "nekorogear:tanzanite_ore"
+    },
+    {
+      "item": "nekorogear:deepslate_tanzanite_ore"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:tanzanite"
+  }
+}

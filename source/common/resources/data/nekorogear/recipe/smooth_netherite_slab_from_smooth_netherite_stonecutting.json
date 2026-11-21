@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:smooth_netherite"
+  },
+  "result": {
+    "count": 2,
+    "id": "nekorogear:smooth_netherite_slab"
+  }
+}

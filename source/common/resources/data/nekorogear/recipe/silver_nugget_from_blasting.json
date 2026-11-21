@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "nekorogear:silver_sword"
+    },
+    {
+      "item": "nekorogear:silver_shovel"
+    },
+    {
+      "item": "nekorogear:silver_pickaxe"
+    },
+    {
+      "item": "nekorogear:silver_axe"
+    },
+    {
+      "item": "nekorogear:silver_hoe"
+    },
+    {
+      "item": "nekorogear:silver_helmet"
+    },
+    {
+      "item": "nekorogear:silver_chestplate"
+    },
+    {
+      "item": "nekorogear:silver_leggings"
+    },
+    {
+      "item": "nekorogear:silver_boots"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:silver_nugget"
+  }
+}

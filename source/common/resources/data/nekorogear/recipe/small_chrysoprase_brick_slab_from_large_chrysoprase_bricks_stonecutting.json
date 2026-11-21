@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:large_chrysoprase_bricks"
+  },
+  "result": {
+    "count": 2,
+    "id": "nekorogear:small_chrysoprase_brick_slab"
+  }
+}

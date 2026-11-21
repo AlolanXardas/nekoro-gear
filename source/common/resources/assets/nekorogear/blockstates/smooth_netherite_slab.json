@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_netherite_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_netherite"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_netherite_slab_top"
+    }
+  }
+}

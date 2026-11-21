@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nekorogear:cobalt_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "nekorogear:cobalt_ingot"
+  }
+}

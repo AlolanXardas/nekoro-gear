@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nekorogear:sapphire_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "nekorogear:sapphire"
+  }
+}

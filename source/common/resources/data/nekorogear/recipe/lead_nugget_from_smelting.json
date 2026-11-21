@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "nekorogear:lead_sword"
+    },
+    {
+      "item": "nekorogear:lead_shovel"
+    },
+    {
+      "item": "nekorogear:lead_pickaxe"
+    },
+    {
+      "item": "nekorogear:lead_axe"
+    },
+    {
+      "item": "nekorogear:lead_hoe"
+    },
+    {
+      "item": "nekorogear:lead_helmet"
+    },
+    {
+      "item": "nekorogear:lead_chestplate"
+    },
+    {
+      "item": "nekorogear:lead_leggings"
+    },
+    {
+      "item": "nekorogear:lead_boots"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:lead_nugget"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_lepidolite_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_lepidolite"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_lepidolite_slab_top"
+    }
+  }
+}

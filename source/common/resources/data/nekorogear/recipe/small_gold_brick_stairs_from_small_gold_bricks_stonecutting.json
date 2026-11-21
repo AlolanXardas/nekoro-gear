@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:small_gold_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:small_gold_brick_stairs"
+  }
+}

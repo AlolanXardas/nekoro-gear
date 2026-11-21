@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": [
+    {
+      "item": "nekorogear:spinel_ore"
+    },
+    {
+      "item": "nekorogear:deepslate_spinel_ore"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:spinel"
+  }
+}

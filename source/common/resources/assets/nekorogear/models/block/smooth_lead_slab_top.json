@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "nekorogear:block/smooth_lead",
+    "side": "nekorogear:block/smooth_lead",
+    "top": "nekorogear:block/smooth_lead"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "nekorogear:block/smooth_spinel",
+    "side": "nekorogear:block/smooth_spinel",
+    "top": "nekorogear:block/smooth_spinel"
+  }
+}

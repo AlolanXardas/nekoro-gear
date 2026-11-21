@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_tumbaga_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_tumbaga"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_tumbaga_slab_top"
+    }
+  }
+}

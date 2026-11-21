@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "nekorogear:copper_sword"
+    },
+    {
+      "item": "nekorogear:copper_shovel"
+    },
+    {
+      "item": "nekorogear:copper_pickaxe"
+    },
+    {
+      "item": "nekorogear:copper_axe"
+    },
+    {
+      "item": "nekorogear:copper_hoe"
+    },
+    {
+      "item": "nekorogear:copper_helmet"
+    },
+    {
+      "item": "nekorogear:copper_chestplate"
+    },
+    {
+      "item": "nekorogear:copper_leggings"
+    },
+    {
+      "item": "nekorogear:copper_boots"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:copper_nugget"
+  }
+}

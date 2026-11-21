@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone_lamp"
+    },
+    {
+      "item": "nekorogear:amazonite_shard"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "nekorogear:amazonite_redstone_lamp"
+  }
+}

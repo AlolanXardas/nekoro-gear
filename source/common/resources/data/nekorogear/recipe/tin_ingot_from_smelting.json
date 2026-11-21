@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": [
+    {
+      "item": "nekorogear:raw_tin"
+    },
+    {
+      "item": "nekorogear:tin_ore"
+    },
+    {
+      "item": "nekorogear:deepslate_tin_ore"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:tin_ingot"
+  }
+}

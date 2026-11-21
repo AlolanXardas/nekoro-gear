@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "nekorogear:block/garnet_redstone_lamp"
+    },
+    "lit=true": {
+      "model": "nekorogear:block/garnet_redstone_lamp_on"
+    }
+  }
+}

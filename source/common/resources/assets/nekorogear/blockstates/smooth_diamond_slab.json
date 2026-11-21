@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_diamond_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_diamond"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_diamond_slab_top"
+    }
+  }
+}

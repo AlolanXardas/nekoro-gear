@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "ingredient": [
+    {
+      "item": "nekorogear:aventurine_ore"
+    },
+    {
+      "item": "nekorogear:deepslate_aventurine_ore"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:aventurine"
+  }
+}

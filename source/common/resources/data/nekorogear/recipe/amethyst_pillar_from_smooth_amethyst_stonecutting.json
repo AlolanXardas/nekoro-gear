@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:smooth_amethyst"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:amethyst_pillar"
+  }
+}

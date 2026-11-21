@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "nekorogear:block/smooth_tumbaga",
+    "side": "nekorogear:block/smooth_tumbaga",
+    "top": "nekorogear:block/smooth_tumbaga"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredient": [
+    {
+      "item": "nekorogear:sapphire_ore"
+    },
+    {
+      "item": "nekorogear:deepslate_sapphire_ore"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:sapphire"
+  }
+}

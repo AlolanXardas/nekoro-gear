@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#c:ingots/bronze",
+    "#c:ingots/tumbaga",
+    "#c:ingots/mithril",
+    "#c:ingots/cobalt",
+    "#c:ingots/silver",
+    "#c:ingots/tin",
+    "#c:ingots/lead"
+  ]
+}

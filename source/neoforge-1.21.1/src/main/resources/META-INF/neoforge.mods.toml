@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+    modId = "nekorogear"
+    version = "${version}"
+    displayName = "Nekoro Gear"
+    authors = "Alolan Xardas"
+    description = '''
+Tools, weapons and armour from 40 materials in the colours of Nekoro Coins: new crystals and metals with their ores, and gear from vanilla materials that have none.
+'''
+
+[[dependencies.nekorogear]]
+    modId = "neoforge"
+    type = "required"
+    versionRange = "[21.1,)"
+    ordering = "NONE"
+    side = "BOTH"
+
+[[dependencies.nekorogear]]
+    modId = "minecraft"
+    type = "required"
+    versionRange = "[1.21.1,1.22)"
+    ordering = "NONE"
+    side = "BOTH"

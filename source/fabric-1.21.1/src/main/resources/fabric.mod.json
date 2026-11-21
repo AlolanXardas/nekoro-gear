@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "nekorogear",
+  "version": "${version}",
+  "name": "Nekoro Gear",
+  "description": "Tools, weapons and armour from 40 materials in the colours of Nekoro Coins: new crystals and metals with their ores, and gear from vanilla materials that have none.",
+  "authors": [
+    "Alolan Xardas"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.xardas.nekorogear.fabric.NekoroGearFabric"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

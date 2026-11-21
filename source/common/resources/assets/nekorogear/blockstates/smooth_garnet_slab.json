@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_garnet_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_garnet"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_garnet_slab_top"
+    }
+  }
+}

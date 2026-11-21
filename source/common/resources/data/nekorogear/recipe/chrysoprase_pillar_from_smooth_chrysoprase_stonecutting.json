@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:smooth_chrysoprase"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:chrysoprase_pillar"
+  }
+}

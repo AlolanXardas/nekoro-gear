@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/large_gold_brick_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/large_gold_bricks"
+    },
+    "type=top": {
+      "model": "nekorogear:block/large_gold_brick_slab_top"
+    }
+  }
+}

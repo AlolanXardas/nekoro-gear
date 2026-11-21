@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "ingredient": [
+    {
+      "item": "nekorogear:rhodochrosite_ore"
+    },
+    {
+      "item": "nekorogear:deepslate_rhodochrosite_ore"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:rhodochrosite"
+  }
+}

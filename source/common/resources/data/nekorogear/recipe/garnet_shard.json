@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nekorogear:garnet"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "nekorogear:garnet_shard"
+  }
+}

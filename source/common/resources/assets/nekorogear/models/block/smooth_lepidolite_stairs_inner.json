@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "nekorogear:block/smooth_lepidolite",
+    "side": "nekorogear:block/smooth_lepidolite",
+    "top": "nekorogear:block/smooth_lepidolite"
+  }
+}

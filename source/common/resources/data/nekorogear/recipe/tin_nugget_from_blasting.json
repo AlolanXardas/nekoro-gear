@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "nekorogear:tin_sword"
+    },
+    {
+      "item": "nekorogear:tin_shovel"
+    },
+    {
+      "item": "nekorogear:tin_pickaxe"
+    },
+    {
+      "item": "nekorogear:tin_axe"
+    },
+    {
+      "item": "nekorogear:tin_hoe"
+    },
+    {
+      "item": "nekorogear:tin_helmet"
+    },
+    {
+      "item": "nekorogear:tin_chestplate"
+    },
+    {
+      "item": "nekorogear:tin_leggings"
+    },
+    {
+      "item": "nekorogear:tin_boots"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:tin_nugget"
+  }
+}

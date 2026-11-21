@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:small_tanzanite_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:small_tanzanite_brick_stairs"
+  }
+}

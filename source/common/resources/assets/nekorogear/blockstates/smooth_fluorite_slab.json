@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_fluorite_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_fluorite"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_fluorite_slab_top"
+    }
+  }
+}

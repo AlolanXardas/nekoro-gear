@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "nekorogear:mithril_sword"
+    },
+    {
+      "item": "nekorogear:mithril_shovel"
+    },
+    {
+      "item": "nekorogear:mithril_pickaxe"
+    },
+    {
+      "item": "nekorogear:mithril_axe"
+    },
+    {
+      "item": "nekorogear:mithril_hoe"
+    },
+    {
+      "item": "nekorogear:mithril_helmet"
+    },
+    {
+      "item": "nekorogear:mithril_chestplate"
+    },
+    {
+      "item": "nekorogear:mithril_leggings"
+    },
+    {
+      "item": "nekorogear:mithril_boots"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:mithril_nugget"
+  }
+}

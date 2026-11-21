@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:large_mithril_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:small_mithril_brick_stairs"
+  }
+}

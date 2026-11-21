@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone_lamp"
+    },
+    {
+      "item": "nekorogear:bronze_ingot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "nekorogear:bronze_redstone_lamp"
+  }
+}

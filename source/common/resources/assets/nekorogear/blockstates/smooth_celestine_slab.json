@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_celestine_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_celestine"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_celestine_slab_top"
+    }
+  }
+}

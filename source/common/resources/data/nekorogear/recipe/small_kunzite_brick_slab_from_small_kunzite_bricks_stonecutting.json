@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:small_kunzite_bricks"
+  },
+  "result": {
+    "count": 2,
+    "id": "nekorogear:small_kunzite_brick_slab"
+  }
+}

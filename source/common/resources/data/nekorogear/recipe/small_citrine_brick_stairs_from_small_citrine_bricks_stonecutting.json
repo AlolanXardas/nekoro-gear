@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:small_citrine_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:small_citrine_brick_stairs"
+  }
+}

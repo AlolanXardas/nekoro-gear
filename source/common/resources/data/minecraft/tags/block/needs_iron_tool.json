@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "nekorogear:ruby_block",
+    "nekorogear:ruby_ore",
+    "nekorogear:deepslate_ruby_ore",
+    "nekorogear:mithril_block",
+    "nekorogear:mithril_ore",
+    "nekorogear:deepslate_mithril_ore",
+    "nekorogear:sapphire_block",
+    "nekorogear:sapphire_ore",
+    "nekorogear:deepslate_sapphire_ore",
+    "nekorogear:cobalt_block",
+    "nekorogear:cobalt_ore",
+    "nekorogear:deepslate_cobalt_ore",
+    "nekorogear:tanzanite_block",
+    "nekorogear:tanzanite_ore",
+    "nekorogear:deepslate_tanzanite_ore",
+    "nekorogear:aquamarine_block",
+    "nekorogear:aquamarine_ore",
+    "nekorogear:deepslate_aquamarine_ore",
+    "nekorogear:onyx_block",
+    "nekorogear:onyx_ore",
+    "nekorogear:deepslate_onyx_ore"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone_lamp"
+    },
+    {
+      "item": "nekorogear:sugilite_shard"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "nekorogear:sugilite_redstone_lamp"
+  }
+}

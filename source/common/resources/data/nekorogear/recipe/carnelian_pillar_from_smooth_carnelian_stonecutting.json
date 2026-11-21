@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:smooth_carnelian"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:carnelian_pillar"
+  }
+}

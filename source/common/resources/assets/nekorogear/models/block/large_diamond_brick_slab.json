@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "nekorogear:block/large_diamond_bricks",
+    "side": "nekorogear:block/large_diamond_bricks",
+    "top": "nekorogear:block/large_diamond_bricks"
+  }
+}

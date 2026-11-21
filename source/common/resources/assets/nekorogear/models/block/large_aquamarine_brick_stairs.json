@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "nekorogear:block/large_aquamarine_bricks",
+    "side": "nekorogear:block/large_aquamarine_bricks",
+    "top": "nekorogear:block/large_aquamarine_bricks"
+  }
+}

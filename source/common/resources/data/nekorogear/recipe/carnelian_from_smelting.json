@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": [
+    {
+      "item": "nekorogear:carnelian_ore"
+    },
+    {
+      "item": "nekorogear:deepslate_carnelian_ore"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:carnelian"
+  }
+}

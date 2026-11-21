@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "nekorogear:block/small_peridot_bricks",
+    "side": "nekorogear:block/small_peridot_bricks",
+    "top": "nekorogear:block/small_peridot_bricks"
+  }
+}

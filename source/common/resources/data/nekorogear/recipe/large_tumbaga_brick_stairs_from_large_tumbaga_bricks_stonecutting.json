@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:large_tumbaga_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:large_tumbaga_brick_stairs"
+  }
+}

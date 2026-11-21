@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:large_lepidolite_bricks"
+  },
+  "result": {
+    "count": 2,
+    "id": "nekorogear:large_lepidolite_brick_slab"
+  }
+}

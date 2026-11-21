@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:large_lead_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:small_lead_bricks"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": [
+    {
+      "item": "nekorogear:lepidolite_ore"
+    },
+    {
+      "item": "nekorogear:deepslate_lepidolite_ore"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:lepidolite"
+  }
+}

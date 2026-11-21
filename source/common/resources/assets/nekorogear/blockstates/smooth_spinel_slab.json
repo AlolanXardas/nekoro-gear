@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_spinel_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_spinel"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_spinel_slab_top"
+    }
+  }
+}

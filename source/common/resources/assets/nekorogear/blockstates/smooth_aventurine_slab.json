@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_aventurine_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_aventurine"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_aventurine_slab_top"
+    }
+  }
+}

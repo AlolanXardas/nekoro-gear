@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_lead_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_lead"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_lead_slab_top"
+    }
+  }
+}

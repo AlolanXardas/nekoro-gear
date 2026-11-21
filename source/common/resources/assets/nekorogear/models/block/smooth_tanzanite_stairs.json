@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "nekorogear:block/smooth_tanzanite",
+    "side": "nekorogear:block/smooth_tanzanite",
+    "top": "nekorogear:block/smooth_tanzanite"
+  }
+}

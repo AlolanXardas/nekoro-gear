@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_epidote_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_epidote"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_epidote_slab_top"
+    }
+  }
+}

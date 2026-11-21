@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:smooth_jasper"
+  },
+  "result": {
+    "count": 2,
+    "id": "nekorogear:smooth_jasper_slab"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  // How many ores of this mod generate in the Overworld, compared with the vanilla ore they copy.
+  // 1: as often, 0.5: half, 2: twice, 0: none.
+  // ores_in_deepslate: the deepslate layer (below Y 0); ores_in_stone: the stone layer (Y 0 and up).
+  // With 0 for both, the materials can come from Nekoro Random Drop. Takes effect after a restart.
+  "ores_in_deepslate": 1.0,
+  "ores_in_stone": 0.5
+}

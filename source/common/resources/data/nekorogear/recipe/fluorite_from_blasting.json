@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "ingredient": [
+    {
+      "item": "nekorogear:fluorite_ore"
+    },
+    {
+      "item": "nekorogear:deepslate_fluorite_ore"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:fluorite"
+  }
+}

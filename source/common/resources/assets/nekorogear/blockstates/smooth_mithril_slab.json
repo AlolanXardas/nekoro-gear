@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nekorogear:block/smooth_mithril_slab"
+    },
+    "type=double": {
+      "model": "nekorogear:block/smooth_mithril"
+    },
+    "type=top": {
+      "model": "nekorogear:block/smooth_mithril_slab_top"
+    }
+  }
+}

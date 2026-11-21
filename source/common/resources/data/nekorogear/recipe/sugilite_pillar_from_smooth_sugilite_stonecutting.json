@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:smooth_sugilite"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:sugilite_pillar"
+  }
+}

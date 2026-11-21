@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "#c:gems/ruby",
+    "#c:gems/garnet",
+    "#c:gems/jasper",
+    "#c:gems/carnelian",
+    "#c:gems/citrine",
+    "#c:gems/topaz",
+    "#c:gems/peridot",
+    "#c:gems/jade",
+    "#c:gems/epidote",
+    "#c:gems/aventurine",
+    "#c:gems/chrysoprase",
+    "#c:gems/amazonite",
+    "#c:gems/chrysocolla",
+    "#c:gems/fluorite",
+    "#c:gems/celestine",
+    "#c:gems/sapphire",
+    "#c:gems/lepidolite",
+    "#c:gems/spinel",
+    "#c:gems/tanzanite",
+    "#c:gems/sugilite",
+    "#c:gems/rhodochrosite",
+    "#c:gems/kunzite",
+    "#c:gems/aquamarine",
+    "#c:gems/onyx"
+  ]
+}

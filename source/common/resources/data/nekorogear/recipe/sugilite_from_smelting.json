@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": [
+    {
+      "item": "nekorogear:sugilite_ore"
+    },
+    {
+      "item": "nekorogear:deepslate_sugilite_ore"
+    }
+  ],
+  "result": {
+    "id": "nekorogear:sugilite"
+  }
+}

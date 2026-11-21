@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "nekorogear:block/smooth_celestine",
+    "side": "nekorogear:block/smooth_celestine",
+    "top": "nekorogear:block/smooth_celestine"
+  }
+}

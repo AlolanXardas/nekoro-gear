@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "nekorogear:block/small_sapphire_bricks",
+    "side": "nekorogear:block/small_sapphire_bricks",
+    "top": "nekorogear:block/small_sapphire_bricks"
+  }
+}

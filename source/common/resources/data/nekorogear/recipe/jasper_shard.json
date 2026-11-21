@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nekorogear:jasper"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "nekorogear:jasper_shard"
+  }
+}

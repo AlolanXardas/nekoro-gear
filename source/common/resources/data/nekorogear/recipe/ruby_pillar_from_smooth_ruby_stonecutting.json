@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:smooth_ruby"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:ruby_pillar"
+  }
+}

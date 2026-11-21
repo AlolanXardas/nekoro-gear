@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nekorogear:large_fluorite_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "nekorogear:small_fluorite_bricks"
+  }
+}
